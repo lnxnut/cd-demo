@@ -4,7 +4,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "lnxnut:latest"
+      "image": "lnxnut/ci-cd_demo:latest"
     },
     "portMappings": [
       {
